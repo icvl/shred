@@ -34,7 +34,7 @@ When comparing performance of HS reconstruction algorithms over the ICVL data se
 
 If you are uncertain as to how to do any of the above, feel free to consult the authors.
 
-**sample_hs_im.mat** can be downloaded [here](https://drive.google.com/file/d/0B7zbhXpGgqd-cE1LTTFXS3JjR3c/view?usp=sharing) alternatively, you can use any image from the [BGU ICVL Natural Hyperspectral Image Database](http://icvl.cs.bgu.ac.il/hyperspectral/).
+**sample_hs_im.mat** can be downloaded [here](https://drive.google.com/file/d/1zNfRxtguGe7HCefP0-sROJ0UqlNAPipL/view?usp=sharing) alternatively, you can use any image from the [BGU ICVL Natural Hyperspectral Image Database](http://icvl.cs.bgu.ac.il/hyperspectral/).
 
 ## Code Authors
 
